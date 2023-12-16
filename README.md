@@ -1,2 +1,1 @@
-# First_repo
-This is my first repository:)
+Projects done in the Internship of MeriSKILL
